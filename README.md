@@ -1,3 +1,11 @@
+A dynamic website created using React, Typescript, CSS, Tailwind and other technologies like framer motion. This project utilizes the power of react custom hooks. 
+
+
+
+![gym](https://github.com/IvanVeluz18/gym-website/assets/39522016/248854fe-e931-4dd8-9420-af3e3edca2c0)
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
